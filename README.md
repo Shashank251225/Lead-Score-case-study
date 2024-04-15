@@ -25,7 +25,7 @@ Problem Statement & Objective of the Study
 
 
 
-
+
 X Education receives numerous leads but struggles with a low lead conversion rate, currently at approximately 30%.
 
 To enhance the lead conversion process, X Education aims to identify high-potential leads, often referred to as "Hot Leads."
